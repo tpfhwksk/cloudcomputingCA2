@@ -2,7 +2,7 @@ boto==2.40.0
 chardet==2.3.0
 click==6.7
 crcmod==1.7
-cryptography==1.7.1
+cryptography==3.2
 enum34==1.1.6
 Flask==0.12.2
 google-compute-engine==2.4.1
